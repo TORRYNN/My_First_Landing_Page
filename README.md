@@ -19,8 +19,9 @@ One of the key takeaways from this project was mastering the implementation of a
 
 ## Demo 🖥️
 
-To witness the magic live, click 👉 [here](https://prathamchauhan.w3spaces.com/)!
-![Check out the Demo](https://github.com/TORRYNN/My_first_landing_page/assets/101942128/29bb2739-71ec-43ae-96f0-fb18c33fc167) 🌟
+🌟To witness the magic live, click 👉 [here](https://prathamchauhan.w3spaces.com/)!
+![image](https://github.com/TORRYNN/My_First_Landing_Page/assets/101942128/d229ecec-d5e6-4db0-a077-506ef20e9d9f)
+ 
 
 ## Contact Me 📧
 
